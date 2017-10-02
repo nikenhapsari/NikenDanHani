@@ -32,6 +32,7 @@ public class Segitiga {
                 System.out.print("*");
             }
             System.out.println();
+            System.err.println("Cie niken masih mblo");
         }
         System.out.println("=====================");
     }
